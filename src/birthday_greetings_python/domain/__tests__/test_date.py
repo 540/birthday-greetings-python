@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from src.birthday_greetings_python.date import Date
+from ..date import Date
 
 
 class TestDate(TestCase):

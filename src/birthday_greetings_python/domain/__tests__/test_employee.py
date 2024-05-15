@@ -1,7 +1,7 @@
 from unittest import TestCase
 
-from src.birthday_greetings_python.date import Date
-from src.birthday_greetings_python.employee import Employee
+from ..date import Date
+from ..employee import Employee
 
 
 class TestEmployee(TestCase):
